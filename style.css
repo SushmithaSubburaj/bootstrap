@@ -273,12 +273,12 @@ background-color:rgb(255,218,205);
   gap: 20px;
 }
 .icon-wrap a {
-  color: #000; /* Black color */
-  font-size: 2rem; /* Size of the icons */
+  color: #000;
+  font-size: 2rem; 
   text-decoration: none;
 }
 .icon-wrap a:hover {
-  color: #555; /* Grey color on hover */
+  color: #555;
 }
 
 
